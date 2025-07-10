@@ -31,7 +31,6 @@ It showcases a complete QA strategy, exploratory testing documentation, modular 
 | `leadership-actions.md`   | Ownership activities, collaboration practices, confluence planning |
 | `future-improvements.md`  | Ideas for scaling, improving CI/CD, coverage, and tooling      |
 | `automation-coverage.md`  | Summary of what's automated, what’s pending, and why           |
-| `qa-readme.md`            | QA setup, how to run tests locally, folder structure           |
 | `playwright.config.ts`    | Configuration file for Playwright test runner                  |
 | `README.md`               | This file                                                      |
 
@@ -41,7 +40,10 @@ It showcases a complete QA strategy, exploratory testing documentation, modular 
 
 - ✅ Framework: [Playwright](https://playwright.dev/) with TypeScript  
 - ✅ Structure: Page Object Model (POM)  
-- ✅ Status: Core flows automated (homepage, contact form, admin login)  
+- ✅ Status: 
+    - Core flows automated (homepage, contact form (positive and negative) , admin login (negative))
+    - Accessibility checks added via 'axe-core' integration
+    - Amenities and Date Picker tested and marked with 'test-fixme' due to instability  
 - ⚠️ Known Bugs: Some flows skipped using `test.fixme()` to avoid flaky CI results  
 - 📊 Report: Playwright HTML report generated after each test run  
 - 📦 CI/CD: GitHub Actions integration ready (planned)
