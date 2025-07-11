@@ -83,7 +83,7 @@ This document outlines the current state of automated test coverage for the Shad
 | Total Spec Files      | 6                       |
 | Utilities / Helpers   | 1                       |
 | Tests Passing         | ✅ All (except fixme)    |
-| Tests Skipped         | 1 (`test.fixme`)        |
+| Tests Skipped         | 9 (`test.fixme`)        |
 | Known Bugs Covered    | 3+ scenarios            |
 | Local Execution Time  | ~12–15 seconds total    |
 
