@@ -15,7 +15,7 @@ This document outlines the current state of automated test coverage for the Shad
 | Admin Login – Invalid     | UI Negative Flow    | ✅ Automated | Validates error for incorrect credentials                           |
 | Amenities Anchor Link     | UI Navigation       | ⚠️ Skipped   | Test marked with `test.fixme` due to unreliable scroll behavior     |
 | Date Picker (Booking)     | UI Element Behavior | ✅ Automated | Verifies component presence and broken behavior for awareness       |
-| Accessibility Sanity Check| Non-Functional      | ✅ Automated | Homepage has no WCAG violations**; deeper tests deferred using 'test.fixme'|
+| Accessibility Sanity Check| Non-Functional      | ✅ Automated | Homepage has no WCAG violations; deeper tests deferred using 'test.fixme'|
 
 ---
 
