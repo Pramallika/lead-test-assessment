@@ -63,7 +63,7 @@ It showcases a complete QA strategy, exploratory testing documentation, modular 
 
 ## 🚀 How to Run Tests
 
-See [`readme.md` under automation scripts]) for detailed instructions on:
+See [`readme.md` under automation scripts/tests]) for detailed instructions on:
 
 - Setting up the project
 - Running all or specific tests
