@@ -43,8 +43,8 @@ To define a structured QA approach for validating both **functional** and **non-
 | Project start           | July 7                     |
 | Exploratory testing     | July 7–8                   |
 | Automation implementation | July 8–11                |
-| Documentation & wrap-up | July 12–13                 |
-| Final submission        | By EOD July 13             |
+| Documentation & wrap-up | July 12                 |
+| Final submission        | By EOD July 1            |
 
 ---
 
@@ -66,10 +66,10 @@ To define a structured QA approach for validating both **functional** and **non-
 
 | Responsibility              | Owner                     |
 |-----------------------------|----------------------------|
-| Test authoring              | [Your Name]               |
-| Exploratory testing         | [Your Name]               |
-| Strategy and planning       | [Your Name]               |
-| Documentation & submission  | [Your Name]               |
+| Test authoring              |                |
+| Exploratory testing         |                |
+| Strategy and planning       |                |
+| Documentation & submission  |                |
 
 ---
 
